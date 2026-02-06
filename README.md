@@ -1,16 +1,18 @@
-## Hi there 👋
+## WELCOME TO MY GITHUB PROFILE
+Hi there, I am Ayomide Odedeyi, a Cybersecurity professional passionate about designing and building secure infrastructure whether cloud or on-premise, solving complex security challenges and ensuring that companies and businesses get the best of their infrastructure. I always stay updated with Cybersecurity trends, always learning and contributing to the Cybersecurity community at large.
 
-<!--
-**Ayode01/Ayode01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MY EXPERTISE
+I ensure that the environments that companies and businesses are building on are secure and properly optimized to ensure profits.
 
-Here are some ideas to get you started:
+- Security Engineering
+- Cloud Security
+- DevSecOps & Application Security
+- Security Operations (Defensive Security)
+- Pentesting (Offensive Security)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## TO CONTACT ME
+- LinkedIn: www.linkedin.com/in/ayomide-odedeyi
+
+- Email: odedeyiayomide4@gmail.com
+
+I am open to opportunities to contribute to the cybersecurity space.
