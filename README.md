@@ -9,6 +9,7 @@ I ensure that the environments that companies and businesses are building on are
 - DevSecOps & Application Security
 - Security Operations (Defensive Security)
 - Pentesting (Offensive Security)
+- Artificial Intelligence Security 
 
 ## TO CONTACT ME
 - LinkedIn: www.linkedin.com/in/ayomide-odedeyi
