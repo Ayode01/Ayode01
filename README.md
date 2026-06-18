@@ -1,18 +1,14 @@
 # WELCOME TO MY GITHUB PROFILE
-Hi there, I am Ayomide Odedeyi, a Cybersecurity professional passionate about designing and building secure infrastructure whether cloud or on-premise, solving security challenges and ensuring that companies and businesses get the best of their infrastructure. I always stay updated with Cybersecurity trends, always learning and contributing to the Cybersecurity community at large.
 
-## MY AREAS OF INTEREST
+Hi there 👋
+
+I am Ayomide Odedeyi, a Cybersecurity professional with a focus on Cloud Security, DevSecOps and Application Security, AI Security, Security Engineering and Architecture, and Offensive and Defensive Security. I am passionate about designing and building secure infrastructure whether cloud or on-premise, solving security challenges and ensuring that companies and businesses get the best of their infrastructure and systems. I always stay updated with Cybersecurity trends, always learning and contributing to the Cybersecurity community at large.
+
+### MY CORE SKILLS
 I ensure that the environments that companies and businesses are building on are secure and properly optimized to ensure profits.
+ 
 
-- Security Engineering & Architecture
-- Cloud Security
-- DevSecOps
-- Application Security
-- Security Operations
-- Penetration Testing
-- Artificial Intelligence Security 
-
-## TO CONTACT ME
+### TO CONTACT ME
 - LinkedIn: www.linkedin.com/in/ayomide-odedeyi
 
 - Email: odedeyiayomide4@gmail.com
