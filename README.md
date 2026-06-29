@@ -2,7 +2,9 @@
 
 Hi there 👋
 
-I am Ayomide Odedeyi, a Cybersecurity professional with a focus on Cloud Security, DevSecOps and Application Security, AI Security, Security Engineering and Architecture, and Offensive and Defensive Security. I am passionate about designing and building secure infrastructure whether cloud or on-premise, solving security challenges and ensuring that companies and businesses get the best of their infrastructure and systems. I always stay updated with Cybersecurity trends, always learning and contributing to the Cybersecurity community at large.
+I am Ayomide Odedeyi, a Cybersecurity professional with a focus on Cloud Security, DevSecOps, Application Security, AI Security, and Security Engineering and Architecture. I am passionate about designing and building secure infrastructure whether cloud or on-premise, solving security challenges and ensuring that companies and businesses get the best of their infrastructure and systems. 
+
+I am also interested in Offensive and Defensive Security. I always stay updated with Cybersecurity trends, always learning and contributing to the Cybersecurity community at large.
 
 ### MY CORE SKILLS
 I ensure that the environments that companies and businesses are building on are secure and properly optimized to ensure profits.
